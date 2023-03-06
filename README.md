@@ -18,4 +18,8 @@ HTML page generated and render in web broweser that include sumerized profile in
 
 ## ScreenShot of HTML page generated.
 
+![](employee-profile.JPG)
 
+## Screen Record 
+
+![](employee-profile.gif)
