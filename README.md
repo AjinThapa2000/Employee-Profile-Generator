@@ -22,4 +22,4 @@ HTML page generated and render in web broweser that include sumerized profile in
 
 ## Screen Record 
 
-![](employee-profile.gif)
+![](Employee-profile.gif)
